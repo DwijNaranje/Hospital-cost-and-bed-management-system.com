@@ -1,6 +1,7 @@
 ******Hospital_Cost_and_Bed_Management_System******
 
-*# The problem Medical Cost Prognosis: Bed and Procedure Analys solves*
+
+*## The problem Medical Cost Prognosis: Bed and Procedure Analys solves*
 
 • Unavailability of critical emergency information like availability of beds, PPE kits, etc
 
@@ -14,7 +15,9 @@
 
 • No Proper statistical data available that can help regulate private hospitals
 
-*# Challenges we ran into*
+
+
+*## Challenges we ran into*
 
 • A National Information Portal where critical information like Availability of Beds, Oxygen, etc will be updated regularly.
 
